@@ -1,0 +1,26 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "cow_details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "breed",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "state",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "bull_or_cow",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "price",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

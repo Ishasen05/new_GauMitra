@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "130939629127",
+    "project_id": "gau-mitra-kqr6f9",
+    "storage_bucket": "gau-mitra-kqr6f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130939629127:android:7ad9e6cca34f1f43508b62",
+        "android_client_info": {
+          "package_name": "com.mycompany.gaumitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130939629127-c9bhb97h80me0c9jlerudonu73k1vshj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gaumitra",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "130939629127-2tirhrcv5dkuldk0ib80abnof19fnfq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJufJs3Doy-HtJ-H_ZPC22-q3IXaolFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130939629127-2tirhrcv5dkuldk0ib80abnof19fnfq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130939629127-aof92fn7tug4em9djte5l2l9ji0ska9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.gaumitra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
